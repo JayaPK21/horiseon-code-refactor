@@ -150,7 +150,3 @@ p {
     text-align: center;
 }
 
-/*Changed the h2 selector to h4 as it has been changed in HTML*/
-.footer h4 {
-    font-size: 20px;
-}
